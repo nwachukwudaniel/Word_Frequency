@@ -1,0 +1,4 @@
+C++ is fun! Learning C++ is useful.
+Files are useful, and maps count words.
+This is a simple text file. This file is for testing.
+Words can appear more than once: words, WORDS, and words!
